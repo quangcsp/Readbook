@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <EditText
+            android:id="@+id/searchText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:singleLine="true"
+            android:hint="Search" />
+
+        <!--<ImageView-->
+        <!--android:id="@+id/searchButton"-->
+        <!--android:layout_width="30dp"-->
+        <!--android:layout_height="40dp"-->
+        <!--android:src="@drawable/search_select"-->
+        <!--android:layout_marginRight="15dp"-->
+        <!--android:layout_marginEnd="15dp"-->
+        <!--android:layout_centerVertical="true"-->
+        <!--android:layout_toLeftOf="@+id/button"-->
+        <!--android:layout_toStartOf="@+id/button" />-->
+
+        <Button
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:id="@+id/btnSpeak"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="12dp"
+            android:layout_marginEnd="12dp"
+            android:background="@android:drawable/presence_audio_online" />
+
+    </RelativeLayout>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/lviewresult" />
+
+</LinearLayout>

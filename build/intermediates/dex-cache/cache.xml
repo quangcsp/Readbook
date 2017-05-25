@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_0bdfa91cca741968e68d9d09921cfb505d4301a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_a0de8c91696b018f5d970ff75f67162023d6938e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2862c9bd7ae8834f540ddef28ae78eedc0174394">
+        <dex dex="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f93525880b793ee53bf07cbf83d1d372b0c3c68d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_8381ce45ed3c158c48ee4c555658428de7c78fab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_7dc88b4992b8d72f840743c3aa9a30d041ee4233/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af41d973b5c089cc9020307511c21fb48616a36a">
+        <dex dex="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f166e4d07bb69db88308d112c4573750d442f0c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_f4ebae6a82bd9f125c7b5c10ba885c2af54720d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_d6df1ca556a662cdb1fe2eaaa9e0204bb8b8fe53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_96ea718e16367f09d40c2edaca4907d3c17ad202/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/quangnguyen/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_663cd25b0cc1d6fbacfec61700bec60fe62eba02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_030f4d11af3a044496dcf8f49d13acf569c63982/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/quangnguyen/App_demo/Readbook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_d02a1d1d4baa06873610039d51d9815adb1debd4/classes.dex" />
+    </item>
+
+</items>
